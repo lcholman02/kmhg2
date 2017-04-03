@@ -1,0 +1,7 @@
+body {font-family: "Lato", sans-serif}
+.mySlides {display: inline-block;}
+/* nav */
+.navbar-brand {padding:0 0 0 0;}
+.navbar .navbar-brand img {
+	width: 130px;
+} 
